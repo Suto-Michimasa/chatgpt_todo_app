@@ -1,4 +1,4 @@
 # local env files
 .env
 
-credentials.json
+token.json
